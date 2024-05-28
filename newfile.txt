@@ -1,1 +1,2 @@
 push: this command will publish our work on GitHub
+branch: creates a new branch on the local repo
