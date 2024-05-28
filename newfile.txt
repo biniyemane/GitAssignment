@@ -1,3 +1,4 @@
 push: this command will publish our work on GitHub
 branch: creates a new branch on the local repo
 log: this helps us to see every commits so far
+pull: updates the local repo with most current changes
